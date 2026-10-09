@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Olá!+Sou+o+Zé+%F0%9F%91%8B;Licenciado+em+IA+e+Ci%C3%AAncia+de+Dados;Explorando+dados,+vis%C3%A3o+e+automação" alt="Typing SVG" />
-</div>
 
-<h1 align="center">Olá, sou o Zé 👋</h1>
+
+<h1 align="center">Olá, sou o Zhixu Ni </h1>
 
 <p align="center">
   Licenciado em <strong>Inteligência Artificial e Ciência de Dados</strong> pela Universidade do Porto, numa formação conjunta da <strong>Faculdade de Ciências (FCUP)</strong> e da <strong>Faculdade de Engenharia (FEUP)</strong>.
@@ -60,23 +58,14 @@ Projetos e exercícios de análise de dados, transformação de ficheiros e expl
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-##  Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zni0218&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zni0218&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
 ##  Contacto
 
 - GitHub: [github.com/zni0218](https://github.com/zni0218)
+- Whatsapp: 965002562
+- email: zni.0218@gmail.com
 
 ---
 
