@@ -35,6 +35,9 @@ Entre as abordagens exploradas incluem-se:
 
 **Tecnologias e conceitos:** Python, SHA-256, análise de similaridade, processamento de imagem, áudio e vídeo.
 
+[Ver repositório](https://github.com/zni0218/Ficheiros-Duplicados)
+
+
 ###  Previsão de preços de ações do S&P 500
 Projeto académico que utiliza dados históricos do S&P 500, recolhidos com `yfinance`, para prever o preço de fecho do dia seguinte. Foram explorados modelos **Random Forest** e **MLP**, usando as previsões numa simulação de investimentos mensais com **Monte Carlo**.
 
@@ -54,12 +57,7 @@ Experiências com agentes de aprendizagem por reforço no ambiente Blackjack do 
 
 [Ver repositório](https://github.com/zni0218/blackjack_isia)
 
-###  Deteção de ficheiros duplicados e semelhantes
-Desenvolvimento de uma ferramenta para identificar ficheiros duplicados ou semelhantes, considerando diferentes tipos de conteúdo e métodos de comparação. As abordagens exploradas incluem hashing, comparação por blocos, hashes percetuais e características específicas de imagem, vídeo, texto e áudio.
 
-**Conceitos e ferramentas:** Python, SHA-256, análise de similaridade e processamento multimédia.
-
-[Ver repositório](https://github.com/zni0218/Ficheiros-Duplicados)
 
 ###  Robótica e ambientes de simulação
 Trabalho com robôs e ambientes de simulação, incluindo projetos associados ao **E-Puck** e ao **Webots**. Também desenvolvi ferramentas para gerar mapas a partir de configurações e imagens, representando elementos como paredes, obstáculos e lugares de estacionamento.
