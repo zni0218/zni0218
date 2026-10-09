@@ -80,7 +80,7 @@ Exploração de estratégias de decisão em jogos, incluindo heurísticas, **Mon
 
 > Estes projetos representam diferentes áreas do meu percurso académico. Para ver mais trabalhos e consultar o código, visita a lista completa de repositórios.
 
-👉 **[Explorar todos os meus repositórios](https://github.com/zni0218?tab=repositories)**
+ **[Explorar todos os meus repositórios](https://github.com/zni0218?tab=repositories)**
 
 ---
 ##  Competências técnicas
